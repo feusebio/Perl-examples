@@ -1,0 +1,2 @@
+#!/usr/bin/perl -w
+print "Caracteres PT: À Á à á é ã ç Ç FIM \n";
